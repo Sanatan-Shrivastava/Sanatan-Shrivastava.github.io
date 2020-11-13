@@ -11,14 +11,15 @@
   --showcase-text: #bbbbbb;
   --list-item-contents-text: #a5a5a5;
 }
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+
 /********** Core **********/
 
 body {
   margin: 0;
   width: 100%;
   min-height: 100%;
-  font-family: Source Code Pro;
+  font-family: 'Source Code Pro', monospace;
   /* font-family: 'Anonymous Pro', monospace; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
