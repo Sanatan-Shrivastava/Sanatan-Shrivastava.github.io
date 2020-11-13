@@ -138,7 +138,7 @@ h2 {
   margin-bottom: 15px;
   font-size: 2em;
   color: var(--h2);
-  font-family: Source Code Pro;
+  font-family: 'Source Code Pro', monospace;
 }
 
 h4 {
@@ -146,13 +146,13 @@ h4 {
   margin-bottom: 15px;
   font-size: 1.4em;
   color: var(--h4);
-  font-family: Source Code Pro;
+  font-family: 'Source Code Pro', monospace;
 }
 
 p {
   font-size: 1.3em;
   color: var(--p);
-  font-family: Source Code Pro;
+  font-family: 'Source Code Pro', monospace;
 }
 
 /************ List Items ************/
