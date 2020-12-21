@@ -11,7 +11,7 @@
   --showcase-text: #bbbbbb;
   --list-item-contents-text: #a5a5a5;
 }
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 
 /********** Core **********/
 
@@ -19,8 +19,7 @@ body {
   margin: 0;
   width: 100%;
   min-height: 100%;
-  font-family: 'Source Code Pro', monospace;
-  /* font-family: 'Anonymous Pro', monospace; */
+  font-family: 'Didact Gothic', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
@@ -139,7 +138,7 @@ h2 {
   margin-bottom: 15px;
   font-size: 2em;
   color: var(--h2);
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Didact Gothic', sans-serif;
 }
 
 h4 {
@@ -147,13 +146,13 @@ h4 {
   margin-bottom: 15px;
   font-size: 1.4em;
   color: var(--h4);
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Didact Gothic', sans-serif;
 }
 
 p {
   font-size: 1.3em;
   color: var(--p);
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Didact Gothic', sans-serif;
 }
 
 /************ List Items ************/
